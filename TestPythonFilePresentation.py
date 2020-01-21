@@ -6,3 +6,5 @@ Created on Tue Jan 21 10:55:34 2020
 """
 
 print("Hi Lawrence")
+
+print("Hello")
